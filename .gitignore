@@ -1,0 +1,10 @@
+### IDE ###
+.idea/
+*.iml
+.vscode/
+
+### Build output ###
+out/
+target/
+node_modules/
+dist/
